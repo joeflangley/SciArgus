@@ -27,6 +27,7 @@ Nature Water
 Nature Computational Science
 Scientific Data
 Nature Methods
+Movement Ecology
 Trends in Ecology & Evolution
 Annual Review of Ecology, Evolution, and Systematics
 Annual Review of Environment and Resources
@@ -112,7 +113,4 @@ Proceedings of the AAAI Conference on Artificial Intelligence
 Ecology and Society
 People and Nature
 Ambio
-Geoscientific Model Development
-Big Earth Data
 Bioacoustics
-National Bureau of Economic Research
