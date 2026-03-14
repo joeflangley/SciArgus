@@ -1,17 +1,20 @@
-#African Elephant Movement
-Research using mechanistic or other movement models for African elephants (Loxodonta africana). This includes Markovian and non-Markovian models, such as Hidden Markov Models, Step Selection Functions, Correlated Random Walk, and many others. I want to build up a picture of the different ways elephant movement is being quantified and interpreted.
+#African Elephant Movement Modelling
+Research using mechanistic or statistical movement models applied to African savanna or forest elephants (Loxodonta africana or Loxodonta cyclotis). This includes Hidden Markov Models, Step Selection Functions, Correlated Random Walks, Brownian Bridge Movement Models, and other Markovian or non-Markovian approaches. I am interested in how these models are used to quantify elephant space use, habitat selection, seasonal migration, and behavioural states. Papers that develop new movement modelling methods and apply them to elephants, or that use existing methods in novel ecological contexts, are especially relevant.
 
-#Human-Mammal Conflict, Phylogeny and Traits
-Research on human-mammal conflict and the instrinsic, extrinsic, or life history traits, as well as phylogenetic factors, that are associated with the involvment of mammal species in human-wildlife conflict, either now or into the future. 
+#Human-Wildlife Conflict: Traits, Phylogeny and Risk
+Research on human-wildlife conflict (HWC) across mammal species, with a focus on the intrinsic traits, life history characteristics, and phylogenetic factors that predict which species are most involved in conflict with people — now or under future scenarios. I am interested in comparative analyses across taxa, trait-based frameworks for predicting conflict risk, and studies that link species ecology or behaviour to conflict outcomes. Papers that use large datasets, phylogenetic comparative methods, or spatial modelling to understand the drivers of HWC are particularly relevant.
 
-#Conservation Forecasting
-Research in the field of ecology and conservation that adopts near-real time or near-term forecasting in the context of landscape connectivity, wildlife movement, and human-wildlife conflict. 
+#Near-Term Conservation Forecasting
+Research that applies near-real-time or near-term ecological forecasting methods in conservation contexts, particularly for wildlife movement, landscape connectivity, and human-wildlife conflict. I am interested in papers that use state-space models, Bayesian forecasting, machine learning, or iterative forecast-observation cycles to make short-term predictions about animal behaviour or conflict risk. Studies that evaluate forecast accuracy, quantify uncertainty, or operationalise forecasts for conservation decision-making are especially relevant.
 
-#Elephants in Kruger National Park, the Serengeti-Mara, or the Kavango-Zambezi 
-Research focusing specifically on African elephants (Loxodonta africana) in Kruger National Park (South Africa), the Serengeti-Mara, or the Kavango-Zambezi. I am especially interested in studies on elephant movement, habitat selection and conflict with people.
+#Elephants in African Protected Areas and Transfrontier Landscapes
+Research focusing specifically on African elephants (Loxodonta africana) in key landscapes including Kruger National Park, the Serengeti-Mara ecosystem, and the Kavango-Zambezi Transfrontier Conservation Area. I am especially interested in studies on elephant movement ecology, habitat selection, seasonal resource use, and conflict with people in these landscapes. Papers examining how elephants respond to landscape features, fences, water, or human pressure in these specific systems are highly relevant.
 
-#Human-Elephant Conflict Mitigation
-Studies of novel and recent approaches and interventions for mitigating human-elephant conflict. I am particularly interested in experiments where they have tested the efficacy and/or trade-offs in these different strategies, especially through control-treatment, before-after or before-after control-treatment studies.
+#Human-Elephant Conflict Mitigation Interventions
+Studies evaluating the efficacy and trade-offs of interventions designed to reduce human-elephant conflict. I am particularly interested in experimental or quasi-experimental study designs — including controlled trials, before-after, and before-after control-impact studies — that test specific mitigation measures such as beehive fences, chilli barriers, early warning systems, translocation, or deterrents. Papers that quantify both conflict reduction and costs or unintended consequences are especially valuable.
 
-#Drones for Elephant Conservation
-Research using drones and UAVs to monitor elephants in Africa. I am especially interested in the research in this field that focuses on elephant movement and human-elephant conflict. In particular, I am interested in research and experiments that use drones to make predictions or forecasts in the context of elephants or other large mammals.
+#Drones and UAVs for Wildlife Monitoring and Conflict Management
+Research using drones, UAVs, or uncrewed aerial systems to monitor large mammals in Africa and elsewhere. I am especially interested in studies that use drone-derived data to track animal movement, detect conflict events in real time, or support conservation management decisions. Papers that develop or test drone-based detection algorithms, integrate drone data with movement models, or evaluate drones as an operational tool for human-wildlife conflict response are highly relevant.
+
+#Real-Time and Remote Sensing Technology for Wildlife Conservation
+Research on the use of emerging technologies — including GPS/GSM collars, acoustic sensors, camera traps, satellite remote sensing, and IoT sensor networks — to monitor wildlife in near-real time and support conservation decision-making. I am interested in papers that integrate multiple data streams, develop early warning systems for human-wildlife conflict, or use remote sensing to characterise habitat and predict animal occurrence or movement. Studies that bridge the gap between data collection and operational conservation applications are especially relevant.
