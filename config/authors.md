@@ -9,7 +9,7 @@ Jessica Bucciarelli
 Katherine Bunney
 Sam Ferreira
 Erin K. Buchholtz
-Nathan Hahn
+Nathan Ravi Hahn
 Robin Naidoo
 Liudmila Osipova
 Jake Wall
