@@ -3,14 +3,13 @@ Robert Guldemond
 Robert J. Fletcher
 Michelle Henley
 Brooke Friswold
-Margaret Smith
+Margaret Swift
 Liana Zanette
 Jessica Bucciarelli
 Katherine Bunney
 Sam Ferreira
 Erin K. Buchholtz
 Nathan Ravi Hahn
-Robin Naidoo
 Liudmila Osipova
 Jake Wall
 Victoria L. Boult
@@ -19,3 +18,4 @@ Michael C. Dietze
 Amy Dickman
 Alexandra Zimmermann
 Katherine Zeller
+Rob Slotow
