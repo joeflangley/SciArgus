@@ -1,3 +1,6 @@
+#Ecology and Conservation Biology
+Recent research in ecology and conservation biology, including studies on wildlife population dynamics, biodiversity, habitat loss, species conservation, and ecosystem management. This is a broad topic intended to capture a wide range of papers from major ecology and conservation journals.
+
 #African Elephant Movement Modelling
 Research using mechanistic or statistical movement models applied to African savanna or forest elephants (Loxodonta africana or Loxodonta cyclotis). This includes Hidden Markov Models, Step Selection Functions, Correlated Random Walks, Brownian Bridge Movement Models, and other Markovian or non-Markovian approaches. I am interested in how these models are used to quantify elephant space use, habitat selection, seasonal migration, and behavioural states. Papers that develop new movement modelling methods and apply them to elephants, or that use existing methods in novel ecological contexts, are especially relevant.
 
